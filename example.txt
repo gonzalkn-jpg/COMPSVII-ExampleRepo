@@ -6,3 +6,8 @@ My Grocery List
 - Butter
 - Sugar
 - Lemons
+#My Additions
+- Coffee
+- Milk
+- Chocolate Cookies
+- Ice Cream
